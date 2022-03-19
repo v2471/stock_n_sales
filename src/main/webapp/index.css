@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+/* navbar */
+.nav-list {
+  padding-left: 15em;
+}
+.navbar-brand{
+	padding-left: 10px;
+	font-size: 25px;
+}
+.nav-list-items {
+  font-size: 18px;
+  padding-left: 5em;
+}
+
+/* Jumbotron */
+.content {
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  margin-top: 30vh;
+  margin-left: auto;
+  font-size: 30px;
+}
+.list-group a{
+  text-decoration: none;
+}
+@media screen and (max-width:560px) {
+  .nav-list {
+    padding-left: 1em;
+  }
+
+}

@@ -1,0 +1,18 @@
+@charset "ISO-8859-1";
+/* navbar */
+body{
+	background-color: yellow;
+}
+/* Jumbotron */
+.content {
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  margin-top: 10vh;
+  margin-left: auto;
+  font-size: 30px;
+}
+.list-group a{
+  text-decoration: none;
+}
+#list{
+	font-size: 15px;
+}
